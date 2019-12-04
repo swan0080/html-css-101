@@ -25,4 +25,10 @@ h1 {
 ```
 
 - [x] Wrote the first h1 tag
+- [x] Connected CSS to HTML file
 
+
+> Written on a keybaord not that fair away
+>  - Matt Swant
+
+Made with :heart: in MAD9013
